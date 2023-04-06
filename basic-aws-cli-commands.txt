@@ -1,0 +1,3 @@
+# aws configure
+use the commandsaws to set up your aws cli configuration on your pc
+
