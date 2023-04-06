@@ -1,3 +1,12 @@
 # aws configure
 use the commandsaws to set up your aws cli configuration on your pc
 
+Class of 04/05/2023
+Creating a folder: The “Compudemy” folder
+Creating the “Lecture”  folder in the “Compudemy” folder
+AWS CLI Commands 
+Creating s3 bucket using CLI: aws s3 mb s3://bucket-name
+Adding file in s3 bucket in ASW CLI: aws s3 cp file.txt s3://bucket-name
+Deleting a file from an s3 bucket using CLI: aws s3 rm s3://bucket-name/file.txt
+Creating some instances: aws ec2 describe-instances
+Creating an EC2 Instance: aws ec2 run-instances --image-id ami-0fc61db8544a617ed --instance-type t2.micro --key-name my-key-pair --security-group-ids sg-0123456789abcdef --subnet-id subnet-0123456789abcdef
