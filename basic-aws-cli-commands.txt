@@ -1,6 +1,6 @@
 # aws configure
 use the commandsaws to set up your aws cli configuration on your pc
-
+something new has been added
 Class of 04/05/2023
 Creating a folder: The “Compudemy” folder
 Creating the “Lecture”  folder in the “Compudemy” folder
